@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bharata/static/css/main.f3d82eb0.css",
+    "main.js": "/bharata/static/js/main.e6967fbb.js",
+    "static/media/glucacare.jpg": "/bharata/static/media/glucacare.8db39be1c86cfae776e8.jpg",
+    "static/media/retlifa.jpg": "/bharata/static/media/retlifa.df3d1d969b4154c699c5.jpg",
+    "static/media/triganos.jpg": "/bharata/static/media/triganos.4d275a4beff722783115.jpg",
+    "static/media/libaver.jpg": "/bharata/static/media/libaver.40ec4f1dfcffaade859e.jpg",
+    "static/media/vellare.jpg": "/bharata/static/media/vellare.b6f284e7d1c3322a8d3f.jpg",
+    "static/media/galrida.jpg": "/bharata/static/media/galrida.81b4dd2109c279ce9a96.jpg",
+    "static/media/gerdafost.jpg": "/bharata/static/media/gerdafost.9be4a618f0322f1bb3b1.jpg",
+    "static/media/etheral.jpg": "/bharata/static/media/etheral.21e09076f800201f5e58.jpg",
+    "static/media/verdilla.jpg": "/bharata/static/media/verdilla.6c5be79e726ee3582d45.jpg",
+    "static/media/hero.png": "/bharata/static/media/hero.1ba962ba114501e54aab.png",
+    "static/media/orthafit.jpg": "/bharata/static/media/orthafit.749e54f1f2de09712363.jpg",
+    "static/media/cod.png": "/bharata/static/media/cod.0b767511453bc29df20b.png",
+    "static/media/tokped.png": "/bharata/static/media/tokped.45b9c4bfb04ff619af26.png",
+    "index.html": "/bharata/index.html",
+    "main.f3d82eb0.css.map": "/bharata/static/css/main.f3d82eb0.css.map",
+    "main.e6967fbb.js.map": "/bharata/static/js/main.e6967fbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d82eb0.css",
+    "static/js/main.e6967fbb.js"
+  ]
+}
